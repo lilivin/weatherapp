@@ -1,0 +1,22 @@
+{
+  "main.css": "/weatherapp/static/css/main.f4addbe1.chunk.css",
+  "main.js": "/weatherapp/static/js/main.248ffb6b.chunk.js",
+  "main.js.map": "/weatherapp/static/js/main.248ffb6b.chunk.js.map",
+  "static/js/1.cf924c08.chunk.js": "/weatherapp/static/js/1.cf924c08.chunk.js",
+  "static/js/1.cf924c08.chunk.js.map": "/weatherapp/static/js/1.cf924c08.chunk.js.map",
+  "runtime~main.js": "/weatherapp/static/js/runtime~main.0e7ea501.js",
+  "runtime~main.js.map": "/weatherapp/static/js/runtime~main.0e7ea501.js.map",
+  "static/media/rain.jpg": "/weatherapp/static/media/rain.56e4ce7d.jpg",
+  "static/media/night.jpg": "/weatherapp/static/media/night.06db697c.jpg",
+  "static/media/rainnight.jpg": "/weatherapp/static/media/rainnight.a8a99fd8.jpg",
+  "static/media/clouds.jpg": "/weatherapp/static/media/clouds.77b86fce.jpg",
+  "static/media/nightClouds.jpg": "/weatherapp/static/media/nightClouds.08a69299.jpg",
+  "static/media/snow.jpg": "/weatherapp/static/media/snow.9c5cdc56.jpg",
+  "static/media/nightSnow.jpg": "/weatherapp/static/media/nightSnow.9a6365b5.jpg",
+  "static/media/App.css": "/weatherapp/static/media/background.ba4be204.png",
+  "static/media/sun.jpg": "/weatherapp/static/media/sun.d9a1651b.jpg",
+  "static/css/main.f4addbe1.chunk.css.map": "/weatherapp/static/css/main.f4addbe1.chunk.css.map",
+  "index.html": "/weatherapp/index.html",
+  "precache-manifest.e43dfffd7160db13839fb7e203d31e54.js": "/weatherapp/precache-manifest.e43dfffd7160db13839fb7e203d31e54.js",
+  "service-worker.js": "/weatherapp/service-worker.js"
+}
