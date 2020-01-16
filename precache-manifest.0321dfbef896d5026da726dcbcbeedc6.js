@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/weatherapp/static/media/rainnight.a8a99fd8.jpg"
   },
   {
-    "revision": "e9ebd6b4973c50bd8e03",
-    "url": "/weatherapp/static/css/main.a88c8c10.chunk.css"
+    "revision": "8be4bdc0224c25872af7",
+    "url": "/weatherapp/static/css/main.5526778d.chunk.css"
   },
   {
     "revision": "eb200bc73afb50c2f00e",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/weatherapp/static/media/night.06db697c.jpg"
   },
   {
-    "revision": "e9ebd6b4973c50bd8e03",
-    "url": "/weatherapp/static/js/main.e9ebd6b4.chunk.js"
+    "revision": "8be4bdc0224c25872af7",
+    "url": "/weatherapp/static/js/main.8be4bdc0.chunk.js"
   },
   {
     "revision": "77b86fce350ddfa9788330ea4b89168a",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/weatherapp/static/media/background.ba4be204.png"
   },
   {
-    "revision": "0a8ea277c6ccacd7ad82a3fc8edf16fa",
+    "revision": "f38885ded3ae3d0e0d28d4dc06227fc8",
     "url": "/weatherapp/index.html"
   }
 ];
